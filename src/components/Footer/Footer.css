@@ -1,0 +1,50 @@
+#footerBody{
+    font-size: 15px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    background-color: #000;
+    color: #fff;
+
+    width: 100%;
+    height: auto;
+}
+
+#backend > a{
+    color: #fff;
+}
+
+#copyright{
+    padding: 0em 2em;
+}
+
+.images{
+    width: 50px;
+    height: auto;
+}
+
+.images:hover{
+    transform: scale(1.2);
+    transition: .2s;
+}
+
+.colorAdjust{
+    filter: invert(200%);
+}
+
+.infos{
+    text-align: center;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    width: 25vw;
+}
+
+li{
+    margin: 0em 1em;
+    align-self: center;
+}

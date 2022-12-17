@@ -1,0 +1,18 @@
+.accountBody{
+    background-color: #9E8C70;
+}
+
+.accountMain{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.emptyPedido{
+    color: white;
+}
+
+.pedidoButtons > div{
+    margin: 1em 1em 0em 1em;
+}

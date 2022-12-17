@@ -1,0 +1,34 @@
+.produtoImage {
+    width: 100px;
+    height: auto;
+}
+
+.spacedItems {
+    justify-content: space-around;
+    padding-bottom: 1em;
+}
+
+.listaPedidos {
+    position: absolute;
+    right: 1%;
+    top: 2.25%;
+    text-align: center;
+    display: flex;
+    width: 22em;
+}
+
+.titleList {
+    border-bottom: 1px solid black;
+}
+
+.listaBox {
+    box-shadow: 0px 4px 20px rgb(0 0 0 / 30%);
+    border-radius: 10px;
+    padding: .5em;
+    margin-bottom: 1em;
+    background-color: #BFC0EB;   
+}
+
+.pedidoButtons > Button{
+    margin: 1em 1em 1em 1em;
+}

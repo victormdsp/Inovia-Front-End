@@ -1,0 +1,19 @@
+.submitButton {
+    margin-top: 1em;
+}
+
+.formText{
+    font-size: 20px;
+    width: 18em;
+    text-align: center;
+}
+
+.myAccountLink{
+    text-decoration: none;
+}
+
+.menu {
+    display: inline-flex;
+    align-items: center;
+    flex-direction: column;
+}

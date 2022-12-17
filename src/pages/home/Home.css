@@ -1,0 +1,22 @@
+.homeBody {
+    background-color: #9E8C70;
+}
+
+.boxPedido {
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: 2em;
+    width: 40em;
+    text-align: center;
+}
+
+.stackPedidos {
+    margin: 2em;
+    height: 65.5vh;
+}
+
+.flexCenter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
